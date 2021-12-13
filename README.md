@@ -1,6 +1,7 @@
 # FMS-Public
 
 Food Management System in C# .Net
+<img src="https://i.ibb.co/4JsdgV9/pay.png" alt="pay" border="0">
 <img src="https://i.ibb.co/jzXK9w8/order.png" alt="order" border="0">
 <img src="https://i.ibb.co/D45911N/receipt.png" alt="receipt" border="0">
 <img src="https://i.ibb.co/0tY8CLh/cart-info.png" alt="cart-info" border="0">
